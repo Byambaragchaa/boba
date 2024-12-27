@@ -1,0 +1,12 @@
+body{
+    background-color:cornsilk;
+    color:rgb(48, 46, 46);
+}
+#gg{
+    border: 3px solid rgb(48, 46, 46) ;
+}
+#g{
+    width:200px;
+    float: left;
+    margin-right:10px;
+}
